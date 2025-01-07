@@ -1,0 +1,4 @@
+- Learn to Create your own Array Class in Java
+- Build necessary methods to mimick the functionality of a dynamic array
+- Use HashMaps to mimick Array
+- A good alternative is to use ArrayList objects instead of HashMap objects
